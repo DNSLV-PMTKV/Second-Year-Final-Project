@@ -1,0 +1,10 @@
+Receipt 1
+Date: 2019/05/25 22:32:22
+Cashier: Ivan
+Items:
+Kartof			1.2BGN
+Kartof			1.2BGN
+Domat			2.05BGN
+Domat			2.05BGN
+				-----
+				6.50BGN
